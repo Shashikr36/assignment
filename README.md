@@ -17,6 +17,7 @@ This project is a simple React application that fetches a random user from an AP
   - [Learn More](#learn-more)
   - [Contributing](#contributing)
   - [License](#license)
+  - [Contact Information](#contact-information)
 
 ## Getting Started
 
@@ -85,3 +86,9 @@ Contributions are welcome! Please feel free to submit a pull request or open an 
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+## Contact Information
+For any questions, suggestions, or feedback, feel free to reach out to the project maintainer:
+
+Name: Shashi Kumar
+Email: shashikrpatwa.work36@gmail.com
